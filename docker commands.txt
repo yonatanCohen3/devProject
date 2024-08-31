@@ -1,0 +1,2 @@
+docker run -it -p 8080:8080 --net=host finalproject-main bash
+docker run -it -p 8080:8080 --net=host finalproject-tester bash
