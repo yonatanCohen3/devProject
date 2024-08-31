@@ -2,15 +2,23 @@
 !Springboot Devops Project!
 !~~~~~~~~~~~~~~~~~~~~~~~~~!
 
+
+
+
 !~~~~~~~~!
 !Overview!
 !~~~~~~~~!
+
 This project involves developing a robust Continuous Integration and Continuous Deployment (CI/CD) automation server using Spring Boot, complemented by Python test scripts and Docker orchestration. The project is designed to showcase essential DevOps practices, tools, and concepts
+
+
+
 
 
 !~~~~~~~~~~~~~!
 !Prerequisites!
 !~~~~~~~~~~~~~!
+
 Before running this application, ensure that you have the following installed:
 
 Python Interpreter
@@ -23,9 +31,12 @@ git clone https://github.com/yonatanCohen3/devProject
 You can build with Maven and run the spring boot web application using IntelliJ IDEA. If you want an alternative way then:
 
 
+
+
 !~~~~~~~~~~~~~~~~~!
 !Process execution!
 !~~~~~~~~~~~~~~~~~!
+
 Navigate to the project directory:
 
 - Run cmd from entire directory
